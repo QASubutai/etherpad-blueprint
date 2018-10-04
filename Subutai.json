@@ -1,6 +1,6 @@
 {
     "name": "${environmentName}",
-    "description": "EtherpadSmetherpad",
+    "description": "EtherpadSmetherpadSetherpad",
     "version": "1.6.6",
     "author": "https://github.com/happyaron",
     "containers": [
